@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engrmuneebamehmood&label=Profile%20views&color=0e75b6&style=flat" alt="engrmuneebamehmood" /> </p>
 
-- 🌱 I’m currently learning **Java, Javascript, Python**
+- 🌱 I’m currently learning **Java,  Python**
 
 - 📝 I write content on [https://itsatechtime.blogspot.com/](https://itsatechtime.blogspot.com/)
 
