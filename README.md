@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Muneeba Mehmood</h1>
 <h3 align="center">A passionate Software Engineering student from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpYA8GCm8d8rfdrd4c6uq8JOADExaWYbHyJQ&usqp=CAU">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engrmuneebamehmood&label=Profile%20views&color=0e75b6&style=flat" alt="engrmuneebamehmood" /> </p>
 
-- 🌱 I’m currently learning **Java,  Python**
+- 🌱 I’m currently learning **Java, Javascript, Python**
 
 - 📝 I write content on [https://itsatechtime.blogspot.com/](https://itsatechtime.blogspot.com/)
 
@@ -18,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/bintetahir6_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bintetahir6_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muneeba-mehmood-b00525202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muneeba-mehmood-b00525202" height="30" width="40" /></a>
-<a href="https://instagram.com/uidesignsbintetahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uidesignsbintetahir" height="30" width="40" /></a>
+<a href="https://instagram.com/tech_.spot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech_.spot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
