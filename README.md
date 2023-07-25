@@ -4,19 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engrmuneebamehmood&label=Profile%20views&color=0e75b6&style=flat" alt="engrmuneebamehmood" /> </p>
 
-- 🌱 I’m currently learning **Java, Javascript, Python**
+- 🌱 I’m currently learning **Html Css, Javascript**
 
 - 📝 I write content on [https://itsatechtime.blogspot.com/](https://itsatechtime.blogspot.com/)
 
-- 💬 Ask me about **Java, Python , C++,Html**
+- 💬 Ask me about **Html ,Css ,Javascript ,Java, Python , C++**
 
 - 📫 How to reach me **muneebamehmood26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bintetahir6_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bintetahir6_" height="30" width="40" /></a>
+<a href="https://twitter.com/_MuneebaMehmood?t=SHaObGxcbzU3FmFGKnoRtw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bintetahir6_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muneeba-mehmood-b00525202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muneeba-mehmood-b00525202" height="30" width="40" /></a>
-<a href="https://instagram.com/muneeba_bintetahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech_.spot" height="30" width="40" /></a>
+<a href="https://instagram.com/_muneebamehmood?igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech_.spot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
