@@ -8,7 +8,7 @@
 
 - 📝 I write content on [https://itsatechtime.blogspot.com/](https://itsatechtime.blogspot.com/)
 
-- 💬 Ask me about **Html ,Css ,Javascript ,React Js ,Java, Python , C++, Figma**
+- 💬 Ask me about **Html ,Css ,Javascript ,React Js ,Django, Python , C++, Figma**
 
 - 📫 How to reach me **muneebamehmood26@gmail.com**
 
